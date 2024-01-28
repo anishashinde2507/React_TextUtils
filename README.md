@@ -47,9 +47,11 @@ Open your browser and visit http://localhost:3000/ to access TextUtils.
 
 ## Screenshots
 
-![Screenshot (432)](https://github.com/anishashinde2507/React_TextUtils/assets/124612206/0e0c64d2-593a-46c0-8168-a867e0876135)
+![Screenshot (435)](https://github.com/anishashinde2507/React_TextUtils/assets/124612206/90ce549a-07ad-45c0-be9e-7718724c7980)
 
-![Screenshot (433)](https://github.com/anishashinde2507/React_TextUtils/assets/124612206/9daf1ec0-addf-49cf-9d2c-1ef3018ddc3f)
+
+![Screenshot (434)](https://github.com/anishashinde2507/React_TextUtils/assets/124612206/962d447a-e4f8-456a-ac51-f538ef3e1e56)
+
 
 
 

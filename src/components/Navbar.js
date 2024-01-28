@@ -28,7 +28,7 @@ export default function Navbar(props) {
               role="switch"
               id="flexSwitchCheckDefault"
             />
-            <label className="form-check-label" htmlFor="flexSwitchCheckDefault">Enable {props.mode === 'light' ? 'Dark' : 'Light'} Mode</label>
+            <label className="form-check-label" htmlFor="flexSwitchCheckDefault">Enable Dark Mode</label>
           </div>
         </div>
       </div>
